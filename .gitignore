@@ -1,0 +1,12 @@
+# Market data from IBKR is licensed for personal use: never commit it
+data/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,3 @@
+ib_async>=2.0
+pandas>=2.0
+tzdata  # timezone database; Windows doesn't ship one
